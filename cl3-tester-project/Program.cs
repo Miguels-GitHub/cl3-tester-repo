@@ -14,6 +14,7 @@ namespace cl3_tester_project
             Console.WriteLine("-----------------------------------------------------------------------\n");
 
             // Add your messages here!
+            Console.WriteLine("1. Amanda is awesome");
         }
     }
 }
