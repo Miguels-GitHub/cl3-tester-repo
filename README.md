@@ -8,6 +8,7 @@ This tutorial assumes that you've already done the following:
 1. Learned some of the basics of Git commands and operations
 2. Installed Git bash or have some other tool available (such as the Visual Studio/VSCode UI) to make and push your changes
 
+## Contributing - Git Workflow
 To contribute to the project and make a change, follow these steps:
 1. Fork my GitHub repository (click the "Fork" button in the upper right corner of the page - this will create a clone of my repository in your GitHub account).
 
