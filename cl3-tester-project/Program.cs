@@ -16,6 +16,7 @@ namespace cl3_tester_project
             // Add your messages here!
             Console.WriteLine("1. Amanda is awesome");
             Console.WriteLine("2. Amanda is *really* awesome");
+            Console.WriteLine("3. New branch");
         }
     }
 }
